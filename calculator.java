@@ -1,4 +1,4 @@
-\\reminder to self: some bugs invloving the equals and negetive button need to be worked on
+/**reminder to self: some bugs invloving the equals and negetive button need to be worked on*/
 
 import javax.swing.*;
 import java.awt.*;
