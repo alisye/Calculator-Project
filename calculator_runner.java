@@ -1,3 +1,5 @@
+/*use this file to launch calculator.java **/
+
 import javax.swing.JFrame;
 
 public class killer {
