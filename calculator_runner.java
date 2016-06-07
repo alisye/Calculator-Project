@@ -1,6 +1,6 @@
 import javax.swing.JFrame;
 
-public class killer {
+public class calculator_runner {
 	public static void main(String[] args){
 
 		calculator a = new calculator();
