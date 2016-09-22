@@ -19,7 +19,7 @@ public class calculator extends JFrame{
 	
 	public calculator() {
 		
-		super("Calculator");
+		super("Walculator");
 		ControlPanel = new JPanel();
 		ControlPanel.setBackground(Color.white);
 		ControlPanel.setLayout(new FlowLayout());
